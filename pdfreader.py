@@ -2,7 +2,6 @@ import os
 import openai
 import time
 from openai import OpenAI
-import time
  
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
